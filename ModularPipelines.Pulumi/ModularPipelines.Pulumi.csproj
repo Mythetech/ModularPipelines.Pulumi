@@ -9,8 +9,12 @@
         <Description>Helpers for interacting with Pulumi CLI</Description>
         <Company>Mythetech</Company>
         <AssemblyVersion>0.0.0.1</AssemblyVersion>
-        <Configurations>Debug;Release;Build</Configurations>
+        <Configurations>Debug;Release</Configurations>
         <Platforms>AnyCPU</Platforms>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageOutputPath>$(OutputPath)</PackageOutputPath>
+        <RepositoryUrl>https://github.com/Mythetech/ModularPipelines.Pulumi</RepositoryUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
     <ItemGroup>
