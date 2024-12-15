@@ -2,8 +2,8 @@
 
 A lightweight library for integrating Pulumi CLI commands into Modular Pipelines. Easily manage Pulumi stacks, previews, deployments, and configurations in your .NET pipelines.
 
-[![nuget](https://img.shields.io/nuget/v/ModularPipelines.Pulumi.svg)](https://www.nuget.org/packages/ModularPipelines.Pulumi/)  
-![Nuget](https://img.shields.io/nuget/dt/ModularPipelines.Pulumi)
+[![nuget](https://img.shields.io/nuget/v/Mythetech.ModularPipelines.Pulumi.svg)](https://www.nuget.org/packages/Mythetech.ModularPipelines.Pulumi/)  
+![Nuget](https://img.shields.io/nuget/dt/Mythetech.ModularPipelines.Pulumi)
 
 ---
 
