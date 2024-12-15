@@ -7,8 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModularPipelines.Pulumi", "
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Build|Any CPU = Build|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4889887-5BFC-47BB-9EFA-8982B5240459}.Build|Any CPU.ActiveCfg = Build|Any CPU
+		{D4889887-5BFC-47BB-9EFA-8982B5240459}.Build|Any CPU.Build.0 = Build|Any CPU
+		{D4889887-5BFC-47BB-9EFA-8982B5240459}.Build|Any CPU.Deploy.0 = Build|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
